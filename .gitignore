@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Simulation outputs & restart files
+simulation_results/
+restart
+simulation_parameters.txt
+*.dat
+*.vtk
+*.out
+check.py 
+diagnostic.py
+
+
+# IDE / Environment folders
+lbm/
+.vscode/
+.idea/
+.env/
+venv/
